@@ -4,4 +4,5 @@
     <LogicalFolder Name="Connections" Type="2" />
     <LogicalFolder Name="Queries" Type="0" />
 
+  </Items>
 </SqlWorkbenchSqlProject>
