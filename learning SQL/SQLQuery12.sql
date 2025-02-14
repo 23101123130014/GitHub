@@ -1,1 +1,2 @@
 USE master;
+ALTER DATABASE  MODIFY NAME = new;
