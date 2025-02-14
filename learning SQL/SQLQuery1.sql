@@ -1,0 +1,2 @@
+USE UNIVERSITY;
+modify table 
