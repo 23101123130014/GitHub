@@ -1,0 +1,1 @@
+alter table j add cc varchar(2);
